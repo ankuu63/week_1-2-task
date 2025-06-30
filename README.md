@@ -26,7 +26,3 @@ week2 : EDA modeel in use and its configuration , training and prediction with m
 
 
 
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
