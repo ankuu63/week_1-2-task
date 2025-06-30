@@ -12,6 +12,8 @@ E waste image classification model for categorizing e watse on basis of visual i
 [Documentation](https://linktodocumentation)
 
 Using transfer learning , Model in use : EfficientNet goal is to maximize the efciency of model as per requirement.
+Notebook : Googlecollab
+
 
 Week1: understanding of the datasets & preprocessing.
 week2 : EDA modeel in use and its configuration , training and prediction with model. 
